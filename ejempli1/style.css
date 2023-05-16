@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(114, 209, 244);
+}
+
+
+.container {
+    border: red 2px solid;
+    margin-bottom: 5px;
+}
+
+#head {
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+#main {
+    height: 60vh;
+}
+
+.bx-footer {
+    border: blueviolet 2px solid;
+    width: 20%;
+}
+
+#main-izq {
+    width: 20%;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+#head {
+    height: 15vh;
+}
+
+.main {
+    border: green 2px solid;
+}
+
+#main-der {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
